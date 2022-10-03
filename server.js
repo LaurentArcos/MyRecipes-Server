@@ -38,8 +38,16 @@ const db = {
       color: '#f0f',
       favorites: [8762],
       email: 'captain.sportsextremes@herocorp.io',
-    }, 
-  ]
+    },
+    {
+      id: 17,
+      password: 'test',
+      username: 'Laurent',
+      color: '#f0f',
+      favorites: [8762],
+      email: 'miam@yummy.com',
+    },
+  ],
 };
 
 /* Middlewares */
